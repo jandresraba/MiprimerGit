@@ -13,4 +13,7 @@ public class Estudiante {
     public Estudiante(){
         System.out.println("Esta es la clase estudiante");
     }
+    public void agregarEstudante(){
+        
+    }
 }
