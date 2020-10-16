@@ -9,6 +9,6 @@ package com.mycompany.miprimergit;
  *
  * @author Johan
  */
-public class Estudiante {
+public class Profesor {
     
 }
