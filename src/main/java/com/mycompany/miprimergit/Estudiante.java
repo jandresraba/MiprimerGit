@@ -16,4 +16,7 @@ public class Estudiante {
     public void agregarEstudante(){
         
     }
+    public void eliminarEstudiante(){
+        
+    }
 }

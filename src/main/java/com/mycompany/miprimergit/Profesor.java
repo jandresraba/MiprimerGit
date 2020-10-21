@@ -10,5 +10,26 @@ package com.mycompany.miprimergit;
  * @author Johan
  */
 public class Profesor {
+    public Profesor(){
+        int m = 0;
+        System.out.println("");
+        System.out.println("");
+    }
+    public void metodo1 (){
+        System.out.println("");
+        System.out.println("");
+    }
+        public void metodo2 (){
+        System.out.println("");
+        System.out.println("");
+    }
+    public void metodo3 (){
+        System.out.println("");
+        System.out.println("");
+    }    
+    public void metodo4 (){
+        System.out.println("");
+        System.out.println("");
+    }
     
 }
