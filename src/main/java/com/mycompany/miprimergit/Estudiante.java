@@ -19,4 +19,7 @@ public class Estudiante {
     public void eliminarEstudiante(){
         
     }
+    public void otroMetodo(){
+        
+    }
 }
