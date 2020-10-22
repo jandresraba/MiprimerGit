@@ -20,6 +20,6 @@ public class Estudiante {
         
     }
     public void otroMetodo(){
-        
+        System.out.println("Hola mundo");
     }
 }
